@@ -1,0 +1,15 @@
+{
+  "name": "backbone-application",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "express": "3.4.6",
+    "jade": "*",
+    "jquery": "^3.5.1",
+    "node-uuid": "~1.4.1"
+  }
+}
